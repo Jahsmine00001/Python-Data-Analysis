@@ -76,7 +76,15 @@ This project demonstrates:
 
 ---
 
-## Next Steps
-- Extend analysis using SQL for larger datasets
-- Integrate results into Power BI dashboards
-- Automate recurring analysis workflows
+## 📜 License
+This project is made available under the MIT License.  
+Feel free to use, modify, and redistribute it with proper credit.
+
+## 👤 About Me
+Hi. My name is Samuel Ayomide Makanjuola.  
+I am a data enthusiast with growing expertise in Analytics Engineering, BI Analysis, Full Stack Data Analysis, data engineering, analytics, and data modelling.  
+I enjoy building practical data solutions that transform raw information into insights that support real business decisions.
+
+If you are interested in collaborating or exploring opportunities with me, feel free to reach out.  
+I am open to roles, projects, and partnerships within the data space.
+
