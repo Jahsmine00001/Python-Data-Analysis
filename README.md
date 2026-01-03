@@ -73,7 +73,8 @@ This project demonstrates:
 - Ability to structure analytical workflows
 - Reproducible analysis using scripts and notebooks
 - Business-oriented interpretation of analytical outputs
-<img width="555" height="509" alt="Screenshot (387)" src="https://github.com/user-attachments/assets/f180b0d4-a453-41b1-bc0e-3ad40a720e91" />
+<img width="529" height="445" alt="Revenue Trend Over Time" src="https://github.com/user-attachments/assets/e8a7086f-3d0e-4c05-9c86-78d06b838449" />
+
 
 ---
 
